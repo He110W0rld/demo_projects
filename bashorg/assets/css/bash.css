@@ -1,0 +1,15 @@
+.text, .button {
+	margin-top: 20px;
+}
+
+.jumbotron {
+	margin-top: 50px;	
+	position: relative;
+}
+
+.lnk {
+	position: absolute;
+	top: 5px;
+	left: 15px;
+	font-size: 20px;
+}
